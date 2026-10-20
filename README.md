@@ -51,6 +51,9 @@ Phenotypic variation among individuals provides the raw material for evolution, 
 - **ELU**: *Esox lucius* (Northern pike)
 - **DRE**: *Danio rerio* (zebrafish)
 
+## Citation
+Bucao et al. 2026. _Genome Res._ https://doi.org/10.1101/gr.280317.125
+
 ## Links
 **2026-05-28:** Check out the [updated preprint](https://doi.org/10.1101/2024.11.11.623020)!
 \
